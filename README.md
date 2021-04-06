@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Start a BLOG about web development
 
-
+<br />
 
 ### Connect with me:
 
