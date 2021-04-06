@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Start a BLOG about web development
 
-<br />
+
 
 ### Connect with me:
 
@@ -16,6 +16,7 @@
 [<img align="left" alt="abdellah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abdellah | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
+<br />
 <br />
 
 ### Languages and Tools:
