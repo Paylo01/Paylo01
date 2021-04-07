@@ -1,23 +1,12 @@
-### Hi there, I'm Abdellah - [My-Website][website] 👋
+### Hi there, My name is Abdellah - [Visit My Website][website] 👋
 
-<br />
-
-## I'm a Front-End Developer 
-
-- 🌱 I’m currently learning Node JS 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Start a BLOG about web development
-
-<br />
+I'm a front-end developer, based in Morocco. I love breaking down large problems into easily solvable chunks, I'm also a fun of React JS.
 
 ### Connect with me:
 
 [<img align="left" alt="abdellah-bahsine.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="abdellah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abdellah | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-
-<br />
-<br />
 
 ### Languages and Tools:
 
@@ -38,3 +27,4 @@
 [website]: https://abdellah-bahsine.netlify.app/
 [linkedin]: https://www.linkedin.com/in/abdellah-bahsine-5589841ba/
 [gmail]: mailto:abdellah.bahsine01@gmail.com
+[medium]: https://medium.com/abdellah-bahsine/latest
